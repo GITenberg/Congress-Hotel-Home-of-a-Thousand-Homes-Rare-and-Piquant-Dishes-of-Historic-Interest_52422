@@ -1,0 +1,38 @@
+_repo: Congress-Hotel-Home-of-a-Thousand-Homes-Rare-and-Piquant-Dishes-of-Historic-Interest_52422
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Tellendar, A. Fred
+    gutenberg_agent_id: '46848'
+    url: http://www.gutenberg.org/2009/agents/46848
+  - agent_name: Stoltz, Sam
+    gutenberg_agent_id: '46847'
+    url: http://www.gutenberg.org/2009/agents/46847
+creator:
+  authors:
+  - agent_name: Paull, Irving S.
+    gutenberg_agent_id: '46845'
+    url: http://www.gutenberg.org/2009/agents/46845
+  - agent_name: Goodnaw, W. S.
+    gutenberg_agent_id: '46846'
+    url: http://www.gutenberg.org/2009/agents/46846
+description: ''
+gutenberg_issued: '2016-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cookbooks'
+- !lcsh 'Gastronomy'
+- !lcsh 'Congress Hotel (Chicago, Ill.)'
+- !lcsh 'Hotels'
+- !lcc 'TX'
+- !lcsh 'Cooking'
+- GITenberg
+title: "Congress Hotel, Home of a Thousand Homes\r\nRare and Piquant Dishes of Historic\
+  \ Interest"
+url: http://www.gutenberg.org/ebooks/52422
